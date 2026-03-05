@@ -2,6 +2,8 @@
 
 Executar uma simulação Cliente-Servidor, onde o Cliente envie uma mensagem ao Servidor e o Servidor responda com uma mensagem. Porém, com a condição de que o Servidor deve criar uma Thread para cada requisição de cliente.
 
+[Explicação em Vídeo](https://youtu.be/P_7sfWXXygY)
+
 ### Requisitos para entrega:
 - A resposta do servidor deve conter o nome da Thread que respondeu a requisição do cliente.
 
