@@ -2,7 +2,7 @@
 
 Executar uma simulação do problema Produtor-Consumidor explicado em aula, e responder as perguntas do slide.
 
-[Explicação em Vídeo](https://youtu.be/P_7sfWXXygY)
+[Explicação em Vídeo](https://youtu.be/XTEnL-SEf4Y)
 
 ### Requisitos para entrega:
 - As seguintes perguntas precisam ser respondidas:

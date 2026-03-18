@@ -5,3 +5,5 @@ Contém todos os arquivos referentes aos entregáveis da disciplina.
 ## Trabalhos
 
 [T1 - Processamento de requisição de clientes via threads](trab1/Descricao.md)
+
+[T2 - Problema Produtor-Consumidor](trab2/Descricao.md)
